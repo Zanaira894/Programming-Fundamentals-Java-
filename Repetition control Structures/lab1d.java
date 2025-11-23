@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab1c{
+public class lab1d{
   public static void main(String[] args){
     Scanner input = new Scanner(System.in);
     System.out.print("Enter N:");
@@ -11,4 +11,5 @@ public class lab1c{
      }
      System.out.print("Sum OF cubes =" + sum);
    }
+
 }
