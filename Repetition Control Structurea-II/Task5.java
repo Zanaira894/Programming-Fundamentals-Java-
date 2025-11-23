@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Calendar;
 
-public class LabTask5 {
+public class Task5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -33,4 +33,5 @@ public class LabTask5 {
         }
         System.out.println();
     }
+
 }
