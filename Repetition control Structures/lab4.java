@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab1c{
+public class lab4{
   public static void main(String[] args){
     Scanner input = new Scanner(System.in);
     int count = 0;
@@ -11,4 +11,5 @@ public class lab1c{
      }
      System.out.print("number of zeros:" + count);
    }
+
 }
